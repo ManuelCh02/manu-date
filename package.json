@@ -1,0 +1,13 @@
+{
+  "name": "manu-date",
+  "version": "1.0.0",
+  "description": "Manage dates with timestamp and long time.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["date", "nodejs"],
+  "author": "ManuCh02",
+  "license": "MIT",
+  "type": "commonjs"
+}
